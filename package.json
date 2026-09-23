@@ -1,0 +1,11 @@
+{
+  "name": "lucks-style-lead",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "pdf": "node gerar-pdf.mjs"
+  },
+  "dependencies": {
+    "puppeteer": "^25.11.0"
+  }
+}
