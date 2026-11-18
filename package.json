@@ -3,7 +3,8 @@
   "private": true,
   "type": "module",
   "scripts": {
-    "pdf": "node gerar-pdf.mjs"
+    "pdf": "node gerar-pdf.mjs",
+    "pdf:whatsapp": "node gerar-pdf-whatsapp.mjs"
   },
   "dependencies": {
     "puppeteer": "^25.11.0"
