@@ -16,7 +16,7 @@ const playfair = Playfair_Display({
 });
 
 export const metadata: Metadata = {
-  metadataBase: new URL("https://barbearialucksstyle.com"),
+  metadataBase: new URL("https://barbearia-lucks-style.vercel.app"),
   title: "Luck's Style · Barbearia",
   description:
     "Desde 2017 em Vila Talarico. Barbearia old school com grooming contemporâneo. Agende corte, barba e clube de assinatura.",
